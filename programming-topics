@@ -18,6 +18,13 @@ Algorithm
 #Advance
 1. Graph 
 2. DSF
-3.BSF
+3. BSF
 4. Dynamic programming 
 5. heap
+
+Must know Algorithm 
+1. two pointer (sorted array , palindrome, pair sum) 
+2. sliding windows (subarray , sub string )
+3. binary search 
+4. recursion and backtracking (permutation and combination)
+5. sorting (merge sort , quick sort and custom comparator , sort)
